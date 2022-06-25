@@ -1,6 +1,6 @@
 -- The IS Boolean Operator
 
-USE sqlclass_db
+USE sqlclass_db;
 
 -- Example 31
 SELECT e.first_name, e.last_name 
