@@ -2,7 +2,6 @@
 
 # Python Database API Specification
 
-from multiprocessing import connection
 import sqlite3
 
 with sqlite3.connect("movies_library.db") as connection:
